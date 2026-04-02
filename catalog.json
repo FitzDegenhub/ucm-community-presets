@@ -1,0 +1,25 @@
+{
+  "catalog_version": 1,
+  "updated_at": "2026-04-03T12:00:00Z",
+  "presets": [
+    {
+      "id": "rdr2-style",
+      "file": "presets/rdr2-style.ucmpreset",
+      "name": "RDR2 Style",
+      "author": "orangeees",
+      "description": "A curated RDR2-inspired camera mod for Crimson Desert. Lower, more grounded third-person view with manual distance switching, softened movement zoom, improved horse camera, and slightly wider near/first-person view.",
+      "url": "https://www.nexusmods.com/crimsondesert/mods/112",
+      "version": "2.3.2",
+      "sha256": "91924940f0dec300cd99ce115f7b021eaf80e5721bfb8567f246ac949799a4af",
+      "size_bytes": 329181,
+      "tags": [
+        "cinematic",
+        "low-camera",
+        "immersive",
+        "rdr2"
+      ],
+      "added_at": "2026-04-03T00:00:00Z",
+      "updated_at": "2026-04-03T00:00:00Z"
+    }
+  ]
+}
