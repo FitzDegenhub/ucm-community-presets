@@ -1,6 +1,6 @@
 {
   "catalog_version": 1,
-  "updated_at": "2026-04-03T18:01:29Z",
+  "updated_at": "2026-04-03T18:20:32Z",
   "presets": [
     {
       "id": "rdr2-by-orangeees",
@@ -19,11 +19,11 @@
       "file": "presets/testing-by-0xfitz.ucmpreset",
       "name": "Testing",
       "author": "0xFitz",
-      "description": "Updated Testing preset v3 - final test",
+      "description": "Testing preset v4",
       "url": "https://www.nexusmods.com/crimsondesert/mods/438",
       "version": "",
-      "sha256": "c36a7093c02fc9e5f610f5e55f382b095338fbda6d38204bbcfbaf0e1b449c6f",
-      "size_bytes": 324112,
+      "sha256": "4f0773fa3cd0e8ebc5540b47880f19ad80a0b59db40ad68a911af9bd8e2d81d6",
+      "size_bytes": 324091,
       "tags": []
     }
   ]
