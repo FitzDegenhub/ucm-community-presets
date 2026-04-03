@@ -1,6 +1,6 @@
 {
   "catalog_version": 1,
-  "updated_at": "2026-04-03T14:59:09Z",
+  "updated_at": "2026-04-03T15:23:47Z",
   "presets": [
     {
       "id": "rdr2-by-orangeees",
@@ -19,11 +19,11 @@
       "file": "presets/testing-by-0xfitz.ucmpreset",
       "name": "Testing",
       "author": "0xFitz",
-      "description": "YEYEYEYEYEYE",
+      "description": "EYYEYEYEYE",
       "url": "https://www.nexusmods.com/crimsondesert/mods/438",
       "version": "",
-      "sha256": "9a8b59f0f0f705698ecc21dc924ad41a7a58a2f8bede7c5c76504190049bcb35",
-      "size_bytes": 324051,
+      "sha256": "8cebaf752ad9fff66a890f40e04ad504caaba525c9f04ff349a0026984dbd48f",
+      "size_bytes": 324006,
       "tags": []
     }
   ]
