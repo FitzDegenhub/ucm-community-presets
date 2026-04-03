@@ -1,6 +1,6 @@
 {
   "catalog_version": 1,
-  "updated_at": "2026-04-03T14:00:00Z",
+  "updated_at": "2026-04-03T14:59:09Z",
   "presets": [
     {
       "id": "rdr2-by-orangeees",
@@ -9,17 +9,22 @@
       "author": "orangeees",
       "description": "A curated RDR2-inspired camera mod for Crimson Desert that delivers a lower, more grounded third-person view, preserves manual camera distance switching, softens movement zoom, improves horse camer...",
       "url": "https://www.nexusmods.com/crimsondesert/mods/112",
-      "version": "2.3.2",
+      "version": "",
       "sha256": "161d177291eb02d6d865e26c12261857ee502d4eca643ace495855295992c028",
       "size_bytes": 317123,
-      "tags": [
-        "cinematic",
-        "low-camera",
-        "immersive",
-        "rdr2"
-      ],
-      "added_at": "2026-04-03T00:00:00Z",
-      "updated_at": "2026-04-03T14:00:00Z"
+      "tags": []
+    },
+    {
+      "id": "testing-by-0xfitz",
+      "file": "presets/testing-by-0xfitz.ucmpreset",
+      "name": "Testing",
+      "author": "0xFitz",
+      "description": "YEYEYEYEYEYE",
+      "url": "https://www.nexusmods.com/crimsondesert/mods/438",
+      "version": "",
+      "sha256": "9a8b59f0f0f705698ecc21dc924ad41a7a58a2f8bede7c5c76504190049bcb35",
+      "size_bytes": 324051,
+      "tags": []
     }
   ]
 }
