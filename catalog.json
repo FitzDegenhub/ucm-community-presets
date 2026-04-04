@@ -1,6 +1,6 @@
 {
   "catalog_version": 1,
-  "updated_at": "2026-04-03T18:20:32Z",
+  "updated_at": "2026-04-04T17:44:32Z",
   "presets": [
     {
       "id": "rdr2-by-orangeees",
@@ -12,6 +12,18 @@
       "version": "",
       "sha256": "161d177291eb02d6d865e26c12261857ee502d4eca643ace495855295992c028",
       "size_bytes": 317123,
+      "tags": []
+    },
+    {
+      "id": "shoulder-camera-by-latranchedepain",
+      "file": "presets/shoulder-camera-by-latranchedepain.ucmpreset",
+      "name": "Shoulder Camera",
+      "author": "latranchedepain",
+      "description": "my custom shoulder camera preset",
+      "url": "https://www.nexusmods.com/crimsondesert/mods/217",
+      "version": "",
+      "sha256": "61df55d20b65cbe8b33075af0d9455bbb8fec194b1586b4391398ac6f90a2187",
+      "size_bytes": 318637,
       "tags": []
     },
     {
